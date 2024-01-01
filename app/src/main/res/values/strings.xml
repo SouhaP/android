@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Contacts</string>
+    <string name="fab_content_description">TODO</string>
+    <string name="Name">Nom</string>
+    <string name="Phone">Numéro de téléphone</string>
+    <string name="Email">Email</string>
+    <string name="Note">Note</string>
+    <string name="search">Recherche</string>
+    <string name="deleteall">Supprimer tout</string>
+    <string name="edit">Modifier</string>
+    <string name="delete">Supprimer</string>
+    <string name="contacts">Contacts</string>
+    <string name="groupes_de_contacts">Groupes de contacts</string>
+    <string name="group_name">Nom du groupe</string>
+    <string name="group_description">Description du groupe</string>
+    <string name="addTime">Temps d\'ajout</string>
+    <string name="updateTime">Temps de modif</string>
+
+</resources>
